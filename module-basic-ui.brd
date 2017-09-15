@@ -638,7 +638,7 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="OC_FARNELL" value="176434" x="42.164" y="8.89" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="47.244" y="5.715" size="1.27" layer="27" ratio="10" rot="R90"/>
 </element>
-<element name="U$4" library="SparkFun-Aesthetics" package="OSHW-LOGO-M" value="" x="24.638" y="9.398" rot="MR0"/>
+<element name="U$4" library="SparkFun-Aesthetics" package="OSHW-LOGO-M" value="" x="24.638" y="11.176" rot="MR0"/>
 <element name="JP1" library="SparkFun-Connectors" package="1X04" value="" x="15.748" y="5.588" smashed="yes" rot="R90">
 <attribute name="VALUE" x="18.923" y="4.318" size="1.27" layer="27" rot="R90"/>
 </element>
